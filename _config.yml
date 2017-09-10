@@ -1,11 +1,11 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: VV Friends
+author: LxF77 and VV Friends
+email: none@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  VV Friends landing page for Hurriane Rescue and Relief.
 
-twitter_username: macrod68
-github_username:  macrod68
+twitter_username: LxF77
+github_username:  vattay
 
 sass:
     style: compressed
