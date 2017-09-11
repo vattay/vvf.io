@@ -1,6 +1,5 @@
 ---
-redirect_from: "/shelter"
-redirect_from: "/shelters"
+redirect_from: "/shelter/"
 layout: page
 title: Shelters
 permalink: /Shelters/
