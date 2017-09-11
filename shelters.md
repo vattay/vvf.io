@@ -9,8 +9,7 @@ title: Shelters
 permalink: /shelters
 ---
 
-<iframe width="100%" height="600" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/642495" ></iframe>
-
+<iframe width="100%" height="600" frameborder="0" scrolling="no" allowtransparency="true" src="https://mapalist.com/map/642496" ></iframe>
 <iframe
   width="100%"
   height="600"
