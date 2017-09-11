@@ -1,4 +1,6 @@
 ---
+redirect_from: "/shelter"
+redirect_from: "/shelters"
 layout: page
 title: Shelters
 permalink: /Shelters/

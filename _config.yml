@@ -9,3 +9,6 @@ github_username:  vattay
 
 sass:
     style: compressed
+
+plugins:
+  - jekyll-redirect-from
