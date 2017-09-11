@@ -1,7 +1,6 @@
 ---
 redirect_from:
   - "weather/"
-  - "weather"
   - "Weather/"
 layout: page
 title: Weather
